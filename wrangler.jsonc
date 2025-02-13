@@ -1,0 +1,8 @@
+{
+  "name": "vite-react-cloudflare-workers",
+  "compatibility_date": "2025-02-04",
+  "main": "./api/index.ts",
+  "assets": {
+    "binding": "ASSETS"
+  }
+}
